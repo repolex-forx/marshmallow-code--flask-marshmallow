@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "flask-marshmallow",
+  "versions": [
+    {
+      "commit": "9a83bbc1372f4b49b251cfff75a91d65d7a551c8",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:14:09.297256+00:00"
+    }
+  ]
+}
